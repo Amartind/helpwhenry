@@ -1,0 +1,42 @@
+*{
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav-link{
+    list-style-type: none;
+    color: red;
+    text-align: right;
+    padding: 5px;
+    background-color: blue;
+}
+
+#main {
+    text-align: center;
+    background-color: blueviolet;
+    min-height: 70vh;
+}
+
+#contact {
+    text-align: center;
+    background-color: orange;
+    padding-bottom: 18px;
+    padding-top: 18px;
+
+}
+
+#submitbut {
+    margin-top: 5px;
+    padding: 5px;
+    background-color: blanchedalmond;
+    border-radius: 3%;
+
+}
+
+footer {
+    background-color: red;
+    text-align: center;
+    color: aliceblue;
+}
